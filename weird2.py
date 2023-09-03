@@ -1,3 +1,4 @@
+# Lambda function(s) is/are evaluated when the function is called.
 def foo(N):
     ans = []
     for i in range(N):
